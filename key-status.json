@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "keygenerate": false,
+  "message": "Key verification is enabled. Please generate your access key to continue.",
+  "generate_url": "https://secure.starkapi.top/key/generate/?deviceId=",
+  "isActive": true,
+  "videoTurturial": "https://youtube.com/shorts/r4X0lhgg36k?si=BQViIL2fVvTzlC12",
+  "contactAdmin": "https://telegram.me/fatal_domain",
+  "status_code": 200
+}
