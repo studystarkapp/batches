@@ -3,7 +3,8 @@
   "status_code": 200,
   "data": {
     "universalLogin": {
-      "status": false
+      "status": false,
+      "telegramLink": "https://telegram.me/studystark",
     },
     "homeActivity": {
       "pw_book": {
@@ -17,10 +18,10 @@
       "test_series_card": {
         "status": false,
         "message": "Test Series Card is active",
-        "testbatchesApi": "https://studystark.github.io/batches/batches.json?timestamp="
+        "testbatchesApi": "https://config.starkapi.top/batches.json?timestamp="
       },
       "pwBatches": {
-        "pwbatchesApi": "https://studystark.github.io/batches/batches.json?timestamp="
+        "pwbatchesApi": "https://config.starkapi.top/batches.json?timestamp="
       },
       "telegramCard": {
         "status": true,
