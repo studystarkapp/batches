@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "status_code": 200,
+  "data": {
+    "universalLogin": {
+      "status": false
+    },
+    "homeActivity": {
+      "pw_book": {
+        "status": true,
+        "message": "PW Book is active"
+      },
+      "pw_ott": {
+        "status": true,
+        "message": "PW OTT is active"
+      },
+      "test_series_card": {
+        "status": false,
+        "message": "Test Series Card is active",
+        "testbatchesApi": "https://studystark.github.io/batches/batches.json?timestamp="
+      },
+      "pwBatches": {
+        "pwbatchesApi": "https://studystark.github.io/batches/batches.json?timestamp="
+      },
+      "telegramCard": {
+        "status": true,
+        "name": "Join Telegram",
+        "joinLink": "https://telegram.me/studystark"
+      },
+      "whatsappCard": {
+        "status": true,
+        "name": "WhatsApp Channel",
+        "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
+      },
+      
+    },
+    "batchDetailsActivity": {
+      "test_tab": {
+        "status": true,
+        "message": "Test Tab is active"
+      },
+      "infinity_learning": {
+        "status": false,
+        "message": "Infinity Learning is active"
+      },
+      "pw_community_tab": {
+        "status": true,
+        "message": "PW Community is active"
+      },
+      "live_class_section": {
+        "status": true,
+        "message": "Live Class Section is active"
+      }
+    },
+    "contentActivity": {
+      "dppquiz": {
+        "status": true,
+        "message": "DPP Quiz is active"
+      }
+    },
+    "apiConfig": {
+      "baseUrl": "https://secure.starkapi.top/v1/"
+    }
+  }
+}
