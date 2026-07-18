@@ -61,7 +61,7 @@
       }
     },
     "apiConfig": {
-      "baseUrl": "https://secure.starkapi.top/v1/"
+      "baseUrl": "https://example.com/v1/"
     }
   }
 }
