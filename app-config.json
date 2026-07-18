@@ -3,7 +3,7 @@
   "status_code": 200,
   "data": {
     "universalLogin": {
-      "status": false,
+      "status": true,
       "videoTurturial": "https://youtube.com/shorts/r4X0lhgg36k?si=tRGdP14iw8FIDNCw",
       "telegramLink": "https://telegram.me/studystark",
     },
