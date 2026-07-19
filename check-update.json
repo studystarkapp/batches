@@ -1,8 +1,8 @@
 {
   "success": true,
   "app": {
-    "latestVersionCode": 2,
-    "latestVersionName": "2.0.0",
+    "latestVersionCode": 1,
+    "latestVersionName": "1.0.0",
     "forceUpdate": false,
     "showUpdate": true,
     "updateTitle": "New Update Available 🚀",
