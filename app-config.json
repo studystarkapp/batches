@@ -42,7 +42,7 @@
         "message": "Test Tab is active"
       },
       "infinity_learning": {
-        "status": false,
+        "status": true,
         "message": "Infinity Learning is active"
       },
       "pw_community_tab": {
