@@ -34,7 +34,24 @@
         "name": "WhatsApp Channel",
         "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
       },
-      
+      "telegramPopup": {
+        "status": true,
+        "name": "Join Telegram",
+        "joinLink": "https://telegram.me/studystark"
+      },
+      "whatsappPopup": {
+        "status": false,
+        "name": "WhatsApp Channel",
+        "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
+      },    
+      "aiGuru": {
+        "status": true,
+        "massage": "ai guru is now enabled",
+      },
+      "aiGuru": {
+        "status": true,
+        "massage": "ai guru is now enabled",
+      },
     },
     "batchDetailsActivity": {
       "test_tab": {
@@ -59,6 +76,29 @@
         "status": true,
         "message": "DPP Quiz is active"
       }
+    },
+    "playerActivity": {
+      "askAi": {
+        "status": true,
+        "message": "Ask ai is active"
+      },
+      "timeline": {
+        "status": true,
+        "message": "timeline is active"
+      },
+       "downloadVideo": {
+        "status": true,
+        "message": "downloadVideo is active"
+      },
+      "primaryApi": {
+        "status": true,
+        "message": "primaryApi is active"
+      },
+      "fallbackApi": {
+        "status": true,
+        "message": "fallbackApi is active"
+      },
+      
     },
     "apiConfig": {
       "baseUrl": "https://android.starkapi.top/secure/v1/"
