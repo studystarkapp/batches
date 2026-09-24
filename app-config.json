@@ -9,11 +9,11 @@
     },
     "homeActivity": {
       "pw_book": {
-        "status": true,
+        "status": false,
         "message": "PW Book is active"
       },
       "pw_ott": {
-        "status": true,
+        "status": false,
         "message": "PW OTT is active"
       },
       "test_series_card": {
