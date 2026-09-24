@@ -13,11 +13,11 @@
         "message": "PW Book is active"
       },
       "pw_ott": {
-        "status": false,
+        "status": true,
         "message": "PW OTT is active"
       },
       "test_series_card": {
-        "status": false,
+        "status": true,
         "message": "Test Series Card is active",
         "testbatchesApi": "https://config.starkapi.top/batches.json?timestamp="
       },
@@ -47,7 +47,7 @@
         "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
       },    
       "aiGuru": {
-        "status": true,
+        "status": false,
         "massage": "ai guru is now enabled",
       },
     },
