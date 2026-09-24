@@ -17,7 +17,7 @@
         "message": "PW OTT is active"
       },
       "test_series_card": {
-        "status": true,
+        "status": false,
         "message": "Test Series Card is active",
         "testbatchesApi": "https://config.starkapi.top/batches.json?timestamp="
       },
