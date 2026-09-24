@@ -9,7 +9,7 @@
     },
     "homeActivity": {
       "pw_book": {
-        "status": false,
+        "status": true,
         "message": "PW Book is active"
       },
       "pw_ott": {
