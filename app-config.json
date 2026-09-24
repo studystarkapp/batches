@@ -47,7 +47,7 @@
         "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
       },    
       "aiGuru": {
-        "status": false,
+        "status": true,
         "massage": "ai guru is now enabled",
       },
     },
