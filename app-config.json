@@ -37,17 +37,15 @@
       "telegramPopup": {
         "status": true,
         "name": "Join Telegram",
+        "massage":"Join our telegram channel stay updated",
         "joinLink": "https://telegram.me/studystark"
       },
       "whatsappPopup": {
         "status": false,
         "name": "WhatsApp Channel",
+        "massage":"Join our whatsapp channel stay updated",
         "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
       },    
-      "aiGuru": {
-        "status": true,
-        "massage": "ai guru is now enabled",
-      },
       "aiGuru": {
         "status": true,
         "massage": "ai guru is now enabled",
