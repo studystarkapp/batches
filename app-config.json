@@ -100,7 +100,7 @@
     "loginActivity": {
       "apiType": {
         "penpencil": false,
-        "studystark": true,
+        "starkapi": true,
       }
       "otpType": {
         "digits": 6,
