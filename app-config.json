@@ -95,8 +95,16 @@
       "fallbackApi": {
         "status": true,
         "message": "fallbackApi is active"
-      },
-      
+      },    
+    },
+    "loginActivity": {
+      "apiType": {
+        "penpencil": false,
+        "studystark": true,
+      }
+      "otpType": {
+        "digits": 6,
+      }
     },
     "apiConfig": {
       "baseUrl": "https://android.starkapi.top/secure/v1/"
