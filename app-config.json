@@ -5,7 +5,8 @@
     "universalLogin": {
       "status": false,
       "videoTurturial": "https://youtube.com/shorts/r4X0lhgg36k?si=tRGdP14iw8FIDNCw",
-      "telegramLink": "https://telegram.me/studystark"},
+      "telegramLink": "https://telegram.me/studystark"
+    },
     "homeActivity": {
       "pw_book": {
         "status": true,
@@ -36,18 +37,20 @@
       "telegramPopup": {
         "status": false,
         "name": "Join Telegram",
-        "massage":"Join our telegram channel stay updated",
+        "massage": "Join our telegram channel stay updated",
         "joinLink": "https://telegram.me/studystark"
       },
       "whatsappPopup": {
         "status": true,
         "name": "WhatsApp Channel",
-        "massage":"Join our whatsapp channel stay updated",
+        "massage": "Join our whatsapp channel stay updated",
         "joinLink": "https://whatsapp.com/channel/0029Vb7phJILikgEjnTVsx34"
       },    
       "aiGuru": {
         "status": true,
-        "massage": "ai guru is now enabled"}},
+        "massage": "ai guru is now enabled"
+      }
+    },
     "batchDetailsActivity": {
       "test_tab": {
         "status": true,
@@ -81,7 +84,7 @@
         "status": true,
         "message": "timeline is active"
       },
-       "downloadVideo": {
+      "downloadVideo": {
         "status": true,
         "message": "downloadVideo is active"
       },
@@ -92,13 +95,16 @@
       "fallbackApi": {
         "status": true,
         "message": "fallbackApi is active"
-      }},
+      }
+    },
     "loginActivity": {
       "apiType": {
         "penpencil": true,
-        "starkapi": false}
+        "starkapi": false
+      },
       "otpType": {
-        "digits": 6}
+        "digits": 6
+      }
     },
     "apiConfig": {
       "baseUrl": "https://android.starkapi.top/secure/v1/"
