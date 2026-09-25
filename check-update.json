@@ -19,7 +19,7 @@
     ]
   },
   "appMaintenance": {
-    "status": false,
+    "status": true,
     "description": "🙏 Sorry for the inconvenience!\n        \n        We're currently under maintenance because we received much higher traffic than expected and couldn't handle the sudden load properly.\n        \n        Our team is working hard to fix this issue as quickly as possible. We'll be back very soon with a faster and more stable experience.\n        \n        Until then, you can continue your studies on our website:\n        🌐 https://studystark.in\n        \n        Thank you for your patience and support! ❤️",
     "expectedFixTime": "Tomorrow 9:00 PM",
     "telegramLink": "https://telegram.me/studystark"
