@@ -90,7 +90,7 @@
       },
       "primaryApi": {
         "Courses": {
-          "status": true,
+          "status": false,
           "message": "api is active"
         },
         "Khazana": {
