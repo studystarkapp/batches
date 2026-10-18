@@ -89,12 +89,32 @@
         "message": "downloadVideo is active"
       },
       "primaryApi": {
-        "status": true,
-        "message": "primaryApi is active"
+        "Courses": {
+          "status": true,
+          "message": "api is active"
+        },
+        "Khazana": {
+          "status": true,
+          "message": "api is active"
+        },
+        "PiOtt": {
+          "status": true,
+          "message": "api is active"
+        }
       },
       "fallbackApi": {
-        "status": true,
-        "message": "fallbackApi is active"
+        "Courses": {
+          "status": true,
+          "message": "api is active"
+        },
+        "Khazana": {
+          "status": true,
+          "message": "api is active"
+        },
+        "PiOtt": {
+          "status": true,
+          "message": "api is active"
+        }
       }
     },
     "loginActivity": {
