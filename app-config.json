@@ -90,7 +90,7 @@
       },
       "primaryApi": {
         "Courses": {
-          "status": false,
+          "status": true,
           "message": "api is active"
         },
         "Khazana": {
@@ -108,7 +108,7 @@
           "message": "api is active"
         },
         "Khazana": {
-          "status": true,
+          "status": false,
           "message": "api is active"
         },
         "PiOtt": {
