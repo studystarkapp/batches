@@ -24,6 +24,9 @@
       "pwBatches": {
         "pwbatchesApi": "https://config.starkapi.top/batches.json?timestamp="
       },
+      "PopularBatches": {
+        "PopularBatchesApi": "https://config.starkapi.top/popular-batches.json?timestamp="
+      },
       "telegramCard": {
         "status": true,
         "name": "Join Telegram",
